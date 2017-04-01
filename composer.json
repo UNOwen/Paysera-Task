@@ -1,0 +1,14 @@
+{
+    "name": "iris/paysera",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nikita Udovenko",
+            "email": "daylight@shelke.org"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
